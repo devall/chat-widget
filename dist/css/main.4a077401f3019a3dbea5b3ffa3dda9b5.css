@@ -298,7 +298,7 @@
 
 @media only screen and (max-device-height: 770px), screen and (max-height: 450px) {
   .home__middle {
-    margin-top: 20px; } }
+    margin-top: 40px; } }
 .input-spinner-field {
   position: relative;
   margin: 0 0 5px 0;
@@ -2357,4 +2357,4 @@ body {
 .scrollable {
   overflow-y: scroll; }
 
-/*# sourceMappingURL=main.b4dad37c8bf4230fa1f3c982f1467ea8.css.map*/
+/*# sourceMappingURL=main.4a077401f3019a3dbea5b3ffa3dda9b5.css.map*/
