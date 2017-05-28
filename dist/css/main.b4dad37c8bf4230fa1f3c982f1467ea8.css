@@ -1609,6 +1609,14 @@
     font-size: 18px;
     font-weight: 400;
     line-height: 30px; }
+
+@media only screen and (max-device-height: 770px), screen and (max-height: 450px) {
+  .proposals__slide {
+    margin-top: 55px; }
+  .proposals__count {
+    margin-top: 30px; }
+  .proposals__hint {
+    margin-top: 20px; } }
 .login {
   position: absolute;
   top: 143px;
@@ -2349,4 +2357,4 @@ body {
 .scrollable {
   overflow-y: scroll; }
 
-/*# sourceMappingURL=main.74e4d8b0f6a5a59ddc035b2db86a4299.css.map*/
+/*# sourceMappingURL=main.b4dad37c8bf4230fa1f3c982f1467ea8.css.map*/
