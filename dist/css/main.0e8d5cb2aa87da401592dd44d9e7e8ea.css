@@ -1650,6 +1650,14 @@
     cursor: pointer; }
     .login__link:hover {
       text-decoration: underline; }
+
+@media only screen and (max-device-height: 770px), screen and (max-height: 450px) {
+  .login__calltoaction {
+    margin-top: 20px; } }
+
+@media only screen and (max-device-height: 620px), screen and (max-height: 620px) {
+  .login__calltoaction {
+    margin-top: 0; } }
 .registration {
   position: absolute;
   top: 143px;
@@ -1681,6 +1689,14 @@
       font-size: 14px;
       font-weight: 400;
       line-height: 20px; }
+
+@media only screen and (max-device-height: 770px), screen and (max-height: 450px) {
+  .registration__calltoaction {
+    margin-top: 20px; } }
+
+@media only screen and (max-device-height: 620px), screen and (max-height: 620px) {
+  .registration__calltoaction {
+    margin-top: 0; } }
 .dialogs-item {
   overflow: hidden;
   padding: 20px;
@@ -2357,4 +2373,4 @@ body {
 .scrollable {
   overflow-y: scroll; }
 
-/*# sourceMappingURL=main.4a077401f3019a3dbea5b3ffa3dda9b5.css.map*/
+/*# sourceMappingURL=main.0e8d5cb2aa87da401592dd44d9e7e8ea.css.map*/
